@@ -1,0 +1,15 @@
+{
+  "testsandy": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-test01-testsandy-170255-authRole",
+      "UnauthRoleArn": "arn:aws:iam::988833764050:role/amplify-test01-testsandy-170255-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::988833764050:role/amplify-test01-testsandy-170255-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-test01-testsandy-170255-deployment",
+      "UnauthRoleName": "amplify-test01-testsandy-170255-unauthRole",
+      "StackName": "amplify-test01-testsandy-170255",
+      "StackId": "arn:aws:cloudformation:us-east-1:988833764050:stack/amplify-test01-testsandy-170255/a97d1ab0-74be-11ed-bf95-0e1aae4374db",
+      "AmplifyAppId": "d304hvm305l8y0"
+    }
+  }
+}
